@@ -1,3 +1,1 @@
-Testing automated Jenkins commit statuses
-round two
-round three
+now testing whether this will trigger a build
