@@ -1,1 +1,1 @@
-Trying to test whether jenkins will run another build when a PR is updated
+Testing automated Jenkins comments
